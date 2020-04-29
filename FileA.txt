@@ -1,8 +1,16 @@
 Unit Testing
 What is unit Testing?
-Unit Testing is conducted by ______________
+Unit testing (or component testing) is to test the smallest units or software components
+in a program.
+Unit Testing is conducted by  by the developer using development tools in his IDE. 
 It is type of (blackbox/whitebox testing)
+whitebox testing
 Integration Testing
 What is Integration Testing?
-Integration Testing is conducted by ______________
+Integration testing is the combined execution of two or more classes, packages,
+components, or subsystems that have been created by multiple programmers or
+programming teams
+Integration Testing is conducted by tests that validate how “modules” of code work together.
+Integration tests are designed to test how your software works in actual production
 It is type of (blackbox/whitebox testing)
+Blackbox or Whitebox testing
